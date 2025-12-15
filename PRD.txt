@@ -1,0 +1,91 @@
+PRD One Pager Website
+DIVS Servicios Legales – Diego Vásquez
+
+Visión General
+Construir una one pager website orientada a generación de leads para Diego Vásquez, abogado en Chile. El sitio debe transmitir confianza, claridad y profesionalismo, manteniendo un tono cercano y accesible para público general. La estética debe alinearse con la industria legal chilena tradicional, evitando estilos futuristas, tipo app o demasiado experimentales.
+
+Objetivo Principal
+Convertir visitas en contactos efectivos mediante un formulario simple y accesos directos a WhatsApp, teléfono y correo electrónico.
+
+Objetivos Secundarios
+Posicionar la marca DIVS Servicios Legales como un estudio confiable.
+Facilitar el contacto rápido desde dispositivos móviles.
+Reducir fricción para personas con bajo nivel digital.
+
+Público Objetivo
+Personas naturales y pequeñas empresas en Chile que buscan asesoría legal.
+Usuarios no técnicos, de distintos rangos etarios.
+Usuarios móviles y desktop.
+
+Propuesta de Valor
+Asesoría legal clara, directa y confiable.
+Comunicación simple, sin lenguaje excesivamente técnico.
+Acceso rápido a un abogado real.
+
+Estructura del Sitio
+Hero Section
+Nombre de la marca DIVS Servicios Legales.
+Nombre del abogado Diego Vásquez.
+Frase breve de confianza y claridad legal.
+Botón principal Contáctanos y botón secundario WhatsApp.
+
+Sección de Servicios
+Listado claro y conciso de áreas legales principales.
+Texto corto, enfocado en problemas comunes del cliente.
+Lenguaje simple y directo.
+
+Sección Sobre Diego
+Breve presentación profesional.
+Enfoque en experiencia, seriedad y trato cercano.
+Foto profesional opcional.
+
+Sección de Contacto
+Formulario simple con campos
+Nombre
+Correo
+Teléfono
+Mensaje
+
+Botón de envío visible y claro.
+
+Accesos Directos
+Botón WhatsApp usando wa.me con +56951884518.
+Teléfono clickeable +56 9 5188 4518.
+Correo clickeable divasquez@miuandes.cl
+.
+
+Footer
+Datos de contacto completos.
+Nombre DIVS Servicios Legales.
+Nombre Diego Vásquez.
+Ciudad Chile.
+
+Lineamientos de Diseño
+Estilo formal, sobrio y elegante.
+Colores neutros como azul, gris, blanco roto o tonos tierra.
+Tipografía serif o sans serif profesional y legible.
+Buen contraste y jerarquía visual clara.
+Espacios amplios y lectura cómoda.
+Nada de animaciones exageradas.
+
+Accesibilidad
+Texto legible en todos los tamaños de pantalla.
+Botones grandes y claros.
+Formulario fácil de completar.
+Buen contraste de colores.
+
+Tecnología
+HTML, CSS y JavaScript.
+Diseño responsive mobile first.
+Sin dependencias pesadas.
+
+Métricas de Éxito
+Cantidad de formularios enviados.
+Clicks en WhatsApp.
+Clicks en teléfono y correo.
+
+Fuera de Alcance
+Blog.
+Login de usuarios.
+Automatizaciones complejas.
+Estilo tipo app o futurista.
